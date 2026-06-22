@@ -155,8 +155,8 @@ El archivo `Semana11_ESP32_Blynk.ino` ejecuta las siguientes funciones críticas
 3. Extrae el archivo `.zip` en tu disco local.
 
 #### Paso 2: Abrir el proyecto en Arduino IDE
-1. Entra a la carpeta extraída y abre el directorio `Semana11_ESP32_Blynk`.
-2. Haz doble clic sobre **`Semana11_ESP32_Blynk.ino`** para abrir el editor de Arduino IDE.
+1. Entra a la carpeta extraída y abre el directorio `ESP32-BlynkTimer`.
+2. Haz doble clic sobre **`ESP32-BlynkTimer.ino`** para abrir el editor de Arduino IDE.
 
 #### Paso 3: Configurar tus credenciales de Red
 Edita las siguientes líneas al inicio del código con los datos específicos de tu red local y plantilla Blynk:
