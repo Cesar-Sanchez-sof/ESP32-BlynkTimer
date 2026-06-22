@@ -104,9 +104,9 @@ graph TD
 Para comunicar tu hardware con la nube, configura los siguientes elementos en la consola web de Blynk:
 
 ### Credenciales de la Plantilla
-*   **Template ID:** `TMPL2Pz9GZGrL`
+*   **Template ID:** `TMPL#####GZGrL`
 *   **Template Name:** `Practica Calificada`
-*   **Auth Token:** `j-6cX1kiKaQS5F6d1A5QLGN9W3-_--bq`
+*   **Auth Token:** `j-#######-_--bq`
 
 ### Datastreams (Pines Virtuales)
 Añade 12 Datastreams virtuales con las siguientes configuraciones:
