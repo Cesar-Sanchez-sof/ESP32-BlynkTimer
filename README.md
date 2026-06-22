@@ -121,7 +121,7 @@ Añade 12 Datastreams virtuales con las siguientes configuraciones:
 | **Estado LED Amarillo** | **V5** | Integer | 0 | 255 | 0 |
 | **Estado LED Verde** | **V6** | Integer | 0 | 255 | 0 |
 | **Estado LED Azul** | **V7** | Integer | 0 | 255 | 0 |
-| **Temperatura** | **V8** | Double | -40 | 80 | 0 |
+| **Temperatura** | **V8** | Double | 0 | 50 | 0 |
 | **Humedad** | **V9** | Double | 0 | 100 | 0 |
 | **Alerta Falla DHT11**| **V10** | Integer | 0 | 1 | 0 |
 | **Voltaje Potenciómetro**| **V11** | Double | 0 | 3.3 | 0 |
